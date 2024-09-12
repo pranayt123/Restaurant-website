@@ -1,2 +1,2 @@
-# Restaurant-website
-HTML | CSS | Bootstrap
+# Restaurant
+This is Restaurant Website using HTML/CSS/BOOTSTRAP 
